@@ -21,7 +21,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 
 
 **Features:**
-* Door State _(via a simple [Door Sensor](https://lastminuteengineers.com/pir-sensor-arduino-tutorial/))_
+* Door State _(via a simple [Door Sensor](http://s.click.aliexpress.com/e/CtE47VyU))_
 * Times Opened counting _(only in Elgato Eve app)_
 * Last Motion displaying _(only in Elgato Eve app, not working yet)_
 * Opened / Closed Duration displaying _(only in Elgato Eve app, not working yet)_
