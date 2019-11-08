@@ -26,9 +26,10 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Last Motion displaying _(only in Elgato Eve app, not working yet)_
 * Opened / Closed Duration displaying _(only in Elgato Eve app, not working yet)_
 * Reset Times Opened value to 0 _(only in Elgato Eve app)_
-* Reset button 
+* Reset button
+* Over-the-Air firmware update _(still beta)_
 * ~~Data history~~ (not working, not reliable enough)
-* ~~Over-the-Air firmware update~~
+
  
 <br/>
 <br/>
