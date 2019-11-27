@@ -30,6 +30,7 @@ For **Usage** please read the [Build Instructions](https://github.com/HomeKidd/E
 * Over-the-Air firmware update _(still beta)_
 * ~~Data history~~ (not working, not reliable enough)
 
+**GPIO12 used for the sensor**
  
 <br/>
 <br/>
